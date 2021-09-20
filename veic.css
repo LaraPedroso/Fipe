@@ -1,3 +1,7 @@
+body{
+    padding: 25px;
+}
+
 .carros{
     text-align: center;
     
@@ -30,6 +34,7 @@ table, th, td {
 
 nav{
     margin: 15px;
+    
 }
 
 img{
@@ -41,4 +46,24 @@ img{
 #img{
    height: 50px;
    padding-right: 20px;
+}
+
+#accordion{
+    margin-left: 220px;
+    margin-top: 150px;
+    padding: 50px;
+    width: 700px;
+    
+}
+#button{
+    color: black;
+}
+
+#button:hover{
+    background-color: rgb(218, 218, 218);
+}
+
+#todo{
+    border: 2px solid black;
+   
 }
