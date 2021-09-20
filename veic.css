@@ -1,0 +1,44 @@
+.carros{
+    text-align: center;
+    
+}
+
+.veic{
+    width: 19%;
+    border: 2px solid ;
+    padding: 15px;
+}
+
+#div1,#div2,#div3{
+    padding: 15px;
+}
+
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+    margin-left: 500px;
+    padding: 10px;
+    margin: 15px;
+}
+
+#pesquisa{
+    border: 2px solid black;
+    padding: 10px;
+    margin: 30px;
+   
+}
+
+nav{
+    margin: 15px;
+}
+
+img{
+    width: 85px;
+    height: 85px;
+    margin: 9px;
+}
+
+#img{
+   height: 50px;
+   padding-right: 20px;
+}
